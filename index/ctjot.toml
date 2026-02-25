@@ -1,5 +1,8 @@
-name = "Chrono Trigger: Jets of Time"
+name = "Chrono Trigger Jets of Time"
 home = "https://discord.com/channels/731205301247803413/1063559984148906035"
+default_url = "https://github.com/Anguirel86/Archipelago/releases/download/v{{version}}/ctjot.apworld"
+disabled = true # Doesn't generate its own template, see #499
 
 [versions]
+
 "0.0.4" = { url = "https://github.com/Anguirel86/Archipelago/releases/download/v0.0.4/ctjot.apworld" }
